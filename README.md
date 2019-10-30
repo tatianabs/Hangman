@@ -1,2 +1,2 @@
 # Hangman
-Hangman game in Java
+Hangman game in Java FX
